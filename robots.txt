@@ -5,4 +5,4 @@ Disallow: /data-governance-tools/export
 Disallow: /api/
 Disallow: /_next/
 
-Sitemap: https://thick-cattle-production.up.railway.app/sitemap.xml
+Sitemap: https://dexter-secoda.github.io/datatoolshub/sitemap.xml
