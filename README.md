@@ -4,7 +4,7 @@ The most comprehensive guide to evaluating the best data governance tools.
 
 ## 🌐 Live Site
 
-Visit: https://dexter-secoda.github.io/datatoolshub/
+Visit: https://datatoolshub.github.io/datatoolshub/
 
 ## 📊 Features
 
