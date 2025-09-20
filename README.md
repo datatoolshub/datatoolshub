@@ -2,11 +2,11 @@
 
 The most comprehensive guide to evaluating the best data governance tools.
 
-## 🌐 Live Site
+## Live Site
 
 Visit: **https://datatoolshub.github.io/datatoolshub/**
 
-## 📊 Features
+## Features
 
 - **43+ Data Governance Tools** - Comprehensive comparison
 - **Expert Reviews** - Detailed analysis of each tool
@@ -15,14 +15,14 @@ Visit: **https://datatoolshub.github.io/datatoolshub/**
 - **Export Data** - Download tool data as CSV
 - **Mobile Responsive** - Works on all devices
 
-## 🛠️ Built With
+## Built With
 
 - Next.js 14
 - TypeScript
 - Tailwind CSS
 - shadcn/ui
 
-## 📈 Categories
+## Categories
 
 - **All-in-One Platforms** - Comprehensive solutions
 - **Data Catalog** - Discover and organize data assets
@@ -37,15 +37,15 @@ Visit: **https://datatoolshub.github.io/datatoolshub/**
 - **Data Pipeline** - Workflow orchestration tools
 - **Query Engine** - SQL and analytics engines
 
-## 🚀 Deployment
+## Deployment
 
 This site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
+## Contributing
 
 ### Submit a New Tool
 
@@ -58,10 +58,10 @@ This project is open source and available under the [MIT License](LICENSE).
 - Found a bug? [Report it here](https://github.com/datatoolshub/datatoolshub/issues)
 - Have a suggestion? [Start a discussion](https://github.com/datatoolshub/datatoolshub/discussions)
 
-## 🏢 About
+## About
 
 DataToolsHub is owned by [Secoda](https://www.secoda.co), the #1 AI-Native Data Platform for Modern Teams.
 
 ---
 
-**Made with ❤️ for the data community**
+**Made with love for the data community**
