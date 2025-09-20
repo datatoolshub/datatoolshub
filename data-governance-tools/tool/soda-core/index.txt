@@ -1,6 +1,6 @@
 1:HL["/datatoolshub/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/datatoolshub/_next/static/css/982a5264399d2be7.css","style",{"crossOrigin":""}]
-0:["I4G7RGfzkwMGYeqCDaPV4",[[["",{"children":["data-governance-tools",{"children":["tool",{"children":[["id","soda-core","d"],{"children":["__PAGE__?{\"id\":\"soda-core\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/datatoolshub/_next/static/css/982a5264399d2be7.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["BWLfY75V4L9Qgub6PLoRA",[[["",{"children":["data-governance-tools",{"children":["tool",{"children":[["id","soda-core","d"],{"children":["__PAGE__?{\"id\":\"soda-core\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/datatoolshub/_next/static/css/982a5264399d2be7.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6522,["326","static/chunks/326-358dfcfce2efd947.js","368","static/chunks/368-f640ef84d06a7d00.js","831","static/chunks/app/data-governance-tools/tool/%5Bid%5D/page-4c9cbf8d6ed44d2f.js"],"StructuredData"]
 6:I[3677,["326","static/chunks/326-358dfcfce2efd947.js","368","static/chunks/368-f640ef84d06a7d00.js","185","static/chunks/app/layout-745a5354c993daff.js"],"DevelopmentCacheControl"]
 7:I[9612,["326","static/chunks/326-358dfcfce2efd947.js","368","static/chunks/368-f640ef84d06a7d00.js","185","static/chunks/app/layout-745a5354c993daff.js"],"JSDetector"]
