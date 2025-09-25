@@ -1,6 +1,6 @@
 1:HL["/datatoolshub/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/datatoolshub/_next/static/css/aa1327597d156df7.css","style",{"crossOrigin":""}]
-0:["8qQRqCYP9ri6eykn3LixI",[[["",{"children":["data-governance-tools",{"children":["tool",{"children":[["id","aws-glue-catalog","d"],{"children":["__PAGE__?{\"id\":\"aws-glue-catalog\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/datatoolshub/_next/static/css/aa1327597d156df7.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["dwh6R58q95nztAy72ePjl",[[["",{"children":["data-governance-tools",{"children":["tool",{"children":[["id","aws-glue-catalog","d"],{"children":["__PAGE__?{\"id\":\"aws-glue-catalog\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/datatoolshub/_next/static/css/aa1327597d156df7.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[3677,["326","static/chunks/326-358dfcfce2efd947.js","533","static/chunks/533-fce8961f93903808.js","185","static/chunks/app/layout-1f3eeb21f0d22e20.js"],"DevelopmentCacheControl"]
 6:I[9612,["326","static/chunks/326-358dfcfce2efd947.js","533","static/chunks/533-fce8961f93903808.js","185","static/chunks/app/layout-1f3eeb21f0d22e20.js"],"JSDetector"]
 7:I[1317,["326","static/chunks/326-358dfcfce2efd947.js","533","static/chunks/533-fce8961f93903808.js","185","static/chunks/app/layout-1f3eeb21f0d22e20.js"],"UnifiedNavigation"]
